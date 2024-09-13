@@ -1,0 +1,14 @@
+C:\Users\Martin\source\repos\Desafio_Libreria1\Desafio_Libreria1\bin\Debug\net8.0\Desafio_Libreria1.exe
+C:\Users\Martin\source\repos\Desafio_Libreria1\Desafio_Libreria1\bin\Debug\net8.0\Desafio_Libreria1.deps.json
+C:\Users\Martin\source\repos\Desafio_Libreria1\Desafio_Libreria1\bin\Debug\net8.0\Desafio_Libreria1.runtimeconfig.json
+C:\Users\Martin\source\repos\Desafio_Libreria1\Desafio_Libreria1\bin\Debug\net8.0\Desafio_Libreria1.dll
+C:\Users\Martin\source\repos\Desafio_Libreria1\Desafio_Libreria1\bin\Debug\net8.0\Desafio_Libreria1.pdb
+C:\Users\Martin\source\repos\Desafio_Libreria1\Desafio_Libreria1\obj\Debug\net8.0\Desafio_Libreria1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\source\repos\Desafio_Libreria1\Desafio_Libreria1\obj\Debug\net8.0\Desafio_Libreria1.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\Desafio_Libreria1\Desafio_Libreria1\obj\Debug\net8.0\Desafio_Libreria1.AssemblyInfo.cs
+C:\Users\Martin\source\repos\Desafio_Libreria1\Desafio_Libreria1\obj\Debug\net8.0\Desafio_Libreria1.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\Desafio_Libreria1\Desafio_Libreria1\obj\Debug\net8.0\Desafio_Libreria1.dll
+C:\Users\Martin\source\repos\Desafio_Libreria1\Desafio_Libreria1\obj\Debug\net8.0\refint\Desafio_Libreria1.dll
+C:\Users\Martin\source\repos\Desafio_Libreria1\Desafio_Libreria1\obj\Debug\net8.0\Desafio_Libreria1.pdb
+C:\Users\Martin\source\repos\Desafio_Libreria1\Desafio_Libreria1\obj\Debug\net8.0\Desafio_Libreria1.genruntimeconfig.cache
+C:\Users\Martin\source\repos\Desafio_Libreria1\Desafio_Libreria1\obj\Debug\net8.0\ref\Desafio_Libreria1.dll

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Martin\\source\\repos\\Desafio_Libreria1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{373D0A77-92FC-4894-BEF9-1F3BF3FA7527}|Desafio_Libreria1\\Desafio_Libreria1.csproj|c:\\users\\martin\\source\\repos\\desafio_libreria1\\desafio_libreria1\\modelos\\classmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373D0A77-92FC-4894-BEF9-1F3BF3FA7527}|Desafio_Libreria1\\Desafio_Libreria1.csproj|solutionrelative:desafio_libreria1\\modelos\\classmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373D0A77-92FC-4894-BEF9-1F3BF3FA7527}|Desafio_Libreria1\\Desafio_Libreria1.csproj|c:\\users\\martin\\source\\repos\\desafio_libreria1\\desafio_libreria1\\modelos\\classtarjetacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373D0A77-92FC-4894-BEF9-1F3BF3FA7527}|Desafio_Libreria1\\Desafio_Libreria1.csproj|solutionrelative:desafio_libreria1\\modelos\\classtarjetacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373D0A77-92FC-4894-BEF9-1F3BF3FA7527}|Desafio_Libreria1\\Desafio_Libreria1.csproj|c:\\users\\martin\\source\\repos\\desafio_libreria1\\desafio_libreria1\\modelos\\classlibreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373D0A77-92FC-4894-BEF9-1F3BF3FA7527}|Desafio_Libreria1\\Desafio_Libreria1.csproj|solutionrelative:desafio_libreria1\\modelos\\classlibreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373D0A77-92FC-4894-BEF9-1F3BF3FA7527}|Desafio_Libreria1\\Desafio_Libreria1.csproj|c:\\users\\martin\\source\\repos\\desafio_libreria1\\desafio_libreria1\\modelos\\classusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373D0A77-92FC-4894-BEF9-1F3BF3FA7527}|Desafio_Libreria1\\Desafio_Libreria1.csproj|solutionrelative:desafio_libreria1\\modelos\\classusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373D0A77-92FC-4894-BEF9-1F3BF3FA7527}|Desafio_Libreria1\\Desafio_Libreria1.csproj|c:\\users\\martin\\source\\repos\\desafio_libreria1\\desafio_libreria1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373D0A77-92FC-4894-BEF9-1F3BF3FA7527}|Desafio_Libreria1\\Desafio_Libreria1.csproj|solutionrelative:desafio_libreria1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373D0A77-92FC-4894-BEF9-1F3BF3FA7527}|Desafio_Libreria1\\Desafio_Libreria1.csproj|c:\\users\\martin\\source\\repos\\desafio_libreria1\\desafio_libreria1\\interface\\interfaceproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373D0A77-92FC-4894-BEF9-1F3BF3FA7527}|Desafio_Libreria1\\Desafio_Libreria1.csproj|solutionrelative:desafio_libreria1\\interface\\interfaceproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373D0A77-92FC-4894-BEF9-1F3BF3FA7527}|Desafio_Libreria1\\Desafio_Libreria1.csproj|c:\\users\\martin\\source\\repos\\desafio_libreria1\\desafio_libreria1\\modelos\\classlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373D0A77-92FC-4894-BEF9-1F3BF3FA7527}|Desafio_Libreria1\\Desafio_Libreria1.csproj|solutionrelative:desafio_libreria1\\modelos\\classlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Desafio_Libreria1\\Desafio_Libreria1\\Modelos\\ClassMenu.cs",
+              "RelativeDocumentMoniker": "Desafio_Libreria1\\Modelos\\ClassMenu.cs",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\Desafio_Libreria1\\Desafio_Libreria1\\Modelos\\ClassMenu.cs",
+              "RelativeToolTip": "Desafio_Libreria1\\Modelos\\ClassMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T21:16:27.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassTarjetaCredito.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Desafio_Libreria1\\Desafio_Libreria1\\Modelos\\ClassTarjetaCredito.cs",
+              "RelativeDocumentMoniker": "Desafio_Libreria1\\Modelos\\ClassTarjetaCredito.cs",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\Desafio_Libreria1\\Desafio_Libreria1\\Modelos\\ClassTarjetaCredito.cs",
+              "RelativeToolTip": "Desafio_Libreria1\\Modelos\\ClassTarjetaCredito.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T21:15:52.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassLibreria.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Desafio_Libreria1\\Desafio_Libreria1\\Modelos\\ClassLibreria.cs",
+              "RelativeDocumentMoniker": "Desafio_Libreria1\\Modelos\\ClassLibreria.cs",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\Desafio_Libreria1\\Desafio_Libreria1\\Modelos\\ClassLibreria.cs",
+              "RelativeToolTip": "Desafio_Libreria1\\Modelos\\ClassLibreria.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwEcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T21:15:12.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClassUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Desafio_Libreria1\\Desafio_Libreria1\\Modelos\\ClassUsuario.cs",
+              "RelativeDocumentMoniker": "Desafio_Libreria1\\Modelos\\ClassUsuario.cs",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\Desafio_Libreria1\\Desafio_Libreria1\\Modelos\\ClassUsuario.cs",
+              "RelativeToolTip": "Desafio_Libreria1\\Modelos\\ClassUsuario.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T21:14:51.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Desafio_Libreria1\\Desafio_Libreria1\\Program.cs",
+              "RelativeDocumentMoniker": "Desafio_Libreria1\\Program.cs",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\Desafio_Libreria1\\Desafio_Libreria1\\Program.cs",
+              "RelativeToolTip": "Desafio_Libreria1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T21:12:07.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InterfaceProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Desafio_Libreria1\\Desafio_Libreria1\\Interface\\InterfaceProducto.cs",
+              "RelativeDocumentMoniker": "Desafio_Libreria1\\Interface\\InterfaceProducto.cs",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\Desafio_Libreria1\\Desafio_Libreria1\\Interface\\InterfaceProducto.cs",
+              "RelativeToolTip": "Desafio_Libreria1\\Interface\\InterfaceProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T21:13:37.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassLibro.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Desafio_Libreria1\\Desafio_Libreria1\\Modelos\\ClassLibro.cs",
+              "RelativeDocumentMoniker": "Desafio_Libreria1\\Modelos\\ClassLibro.cs",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\Desafio_Libreria1\\Desafio_Libreria1\\Modelos\\ClassLibro.cs",
+              "RelativeToolTip": "Desafio_Libreria1\\Modelos\\ClassLibro.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T21:14:04.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
